@@ -2,7 +2,7 @@
 
 # AQL Compiler
 
-## 📘 Project Overview
+##  Project Overview
 
 The **AQL Compiler** is a lightweight compiler designed for the **Abstract Query Language (AQL)**, showcasing key concepts in **lexical analysis**, **syntax parsing**, and **compiler construction** using `Flex` and `Bison`. It is an educational compiler intended to parse, validate, and interpret simplified AQL programs.
 
@@ -10,18 +10,18 @@ This project was built as part of an academic exploration of compiler design and
 
 ---
 
-## 🧠 Key Concepts Implemented
+##  Key Concepts Implemented
 
-- ✅ **Lexical Analysis** (via `aql.l` using Flex)
-- ✅ **Syntax Parsing** (via `aql.y` using Bison/Yacc)
-- ✅ **Token and Grammar Definitions**
-- ✅ **Error Reporting for Syntax Errors**
-- ✅ **Input Redirection for AQL Source Files**
-- ✅ **Automated Build System (Makefile)**
+-  **Lexical Analysis** (via `aql.l` using Flex)
+-  **Syntax Parsing** (via `aql.y` using Bison/Yacc)
+-  **Token and Grammar Definitions**
+-  **Error Reporting for Syntax Errors**
+-  **Input Redirection for AQL Source Files**
+-  **Automated Build System (Makefile)**
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 AQL-Compiler/
 ├── aql.l # Lexer rules (Flex)
